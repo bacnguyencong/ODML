@@ -17,6 +17,8 @@ This has been tested using MATLAB 2010A and later on Windows and Linux (Mac shou
 Download the folder "ODML" into the directory of your choice. Then within MATLAB go to file >> Set path... and add the directory containing "ODML" to the list (if it isn't already). That's it.
 
 ## Usage
+Please run (inside the matlab console)
+
 ```matlab
 >> demo
 ```
