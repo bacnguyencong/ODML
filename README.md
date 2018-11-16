@@ -22,7 +22,7 @@ Download the folder "ODML" into the directory of your choice. Then within MATLAB
 ## Acknowledgments
 If you find this code useful in your research, please consider citing:
 ``` bibtex
-@Article{Nguyen2016,
+@Article{Nguyen2018a,
   Title       = {Distance metric learning for ordinal classification based on triplet constraints},
   Author      = {Bac Nguyen and Carlos Morell and De Baets, Bernard},
   Journal     = {Knowledge-Based Systems},
