@@ -3,9 +3,7 @@ Distance metric learning for ordinal classification based on triplet constraints
 
 **How to learn a linear transformation A ?**
 
-<img src="figs/formulation.png" style="max-width:100%; width: 30%" >
-    
-<img src="figs/illustration.jpg" style="max-width:100%; width: 30%">
+<img src="figs/formulation.png" style="max-width:100%; width: 30%" > <img src="figs/illustration.jpg" style="max-width:100%; width: 30%">
 
 ### Prerequisites
 This has been tested using MATLAB 2010A and later on Windows and Linux (Mac should be fine).
@@ -14,7 +12,6 @@ This has been tested using MATLAB 2010A and later on Windows and Linux (Mac shou
 Download the folder "ODML" into the directory of your choice. Then within MATLAB go to file >> Set path... and add the directory containing "ODML" to the list (if it isn't already). That's it.
 
 ## Usage
-First we need to learn a linear transformation from supervised data
 ```matlab
 >> demo
 ```
