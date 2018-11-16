@@ -11,7 +11,7 @@ Distance metric learning for ordinal classification based on triplet constraints
 This has been tested using MATLAB 2010A and later on Windows and Linux (Mac should be fine).
 
 ## Installation
-Download the folder "ODML" into the directory of your choice. Then within MATLAB go to file >> Set path... and add the directory containing "DMLMJ" to the list (if it isn't already). That's it.
+Download the folder "ODML" into the directory of your choice. Then within MATLAB go to file >> Set path... and add the directory containing "ODML" to the list (if it isn't already). That's it.
 
 ## Usage
 First we need to learn a linear transformation from supervised data
